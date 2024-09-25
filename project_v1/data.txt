@@ -1,0 +1,12 @@
+Tên file ảnh gốc: pictest.jpg
+Loại đối tượng: con nguoi
+Vị trí đối tượng: 149, 116 -> 243, 156
+
+Tên file ảnh gốc: pictest.jpg
+Loại đối tượng: meo
+Vị trí đối tượng: 5, 83 -> 90, 144
+
+Tên file ảnh gốc: pictest.jpg
+Loại đối tượng: o to
+Vị trí đối tượng: 150, 85 -> 203, 112
+
